@@ -4,6 +4,7 @@
  *
  * @author Nicholas Nepomuceno
  * Student Num: A01431279
+ * Set: B
  * @version 1.0
  */
 public class HashSimulator
